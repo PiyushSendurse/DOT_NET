@@ -13,3 +13,8 @@ E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\obj\Debug\net7.0\refint\Account.dl
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\obj\Debug\net7.0\Account.pdb
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\obj\Debug\net7.0\Account.genruntimeconfig.cache
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\obj\Debug\net7.0\ref\Account.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\bin\Debug\net7.0\Account.exe
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\bin\Debug\net7.0\Account.deps.json
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\bin\Debug\net7.0\Account.runtimeconfig.json
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\bin\Debug\net7.0\Account.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day1\Account\bin\Debug\net7.0\Account.pdb
