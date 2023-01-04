@@ -41,7 +41,11 @@ while(!exit) {
         Console.WriteLine("Enter Student's ID");
         int roll=Convert.ToInt32(Console.ReadLine());
         for(int i=0; i<students.Count; i++) {
-            if(students.Id==roll)
+            if(students.Id==roll){
+                Console.Write("Edit your Name");
+                
+                break;
+            }
         }
         break;
 
