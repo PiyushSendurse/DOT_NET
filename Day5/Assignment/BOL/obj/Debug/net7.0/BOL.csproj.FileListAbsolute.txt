@@ -1,0 +1,12 @@
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\bin\Debug\net7.0\BOL.deps.json
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\bin\Debug\net7.0\BOL.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\bin\Debug\net7.0\BOL.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\BOL.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\refint\BOL.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\BOL.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day5\Assignment\BOL\obj\Debug\net7.0\ref\BOL.dll
