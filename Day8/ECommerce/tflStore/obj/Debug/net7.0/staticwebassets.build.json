@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W8FlHoGtihrD8R529s9By1+pgg8xMvfg/XIhokZMJCM=",
+  "Hash": "CYufzBtDzKlbZqjSumYN3zeCiww3/fV9/lW/ZvGsjcE=",
   "Source": "tflStore",
   "BasePath": "_content/tflStore",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day8\\ECommerce\\tflStore\\wwwroot\\images\\BookShelf.webp",
+      "SourceId": "tflStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day8\\ECommerce\\tflStore\\wwwroot\\",
+      "BasePath": "_content/tflStore",
+      "RelativePath": "images/BookShelf.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\BookShelf.webp"
     },
     {
       "Identity": "E:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day8\\ECommerce\\tflStore\\wwwroot\\js\\site.js",

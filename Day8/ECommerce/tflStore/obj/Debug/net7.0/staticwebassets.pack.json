@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day8\\ECommerce\\tflStore\\wwwroot\\images\\BookShelf.webp",
+      "PackagePath": "staticwebassets\\images\\BookShelf.webp"
+    },
+    {
       "Id": "E:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day8\\ECommerce\\tflStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

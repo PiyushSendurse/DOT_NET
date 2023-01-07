@@ -17,7 +17,25 @@ public class HomeController : Controller
     {
         return View();
     }
-
+    public IActionResult Welcome()
+    {
+        return View();
+    }
+    public IActionResult Login()
+    {
+        return View();
+    }
+    public IActionResult validate(string emailName, string passName)
+    {
+        if(emailName=="saifu@gmail.com" && passName=="salma") {
+            return Redirect("/home/AccntLogin");
+        }
+       return View();
+    }
+    public IActionResult AccntLogin()
+    {
+        return View();
+    }
     public IActionResult Privacy()
     {
         return View();

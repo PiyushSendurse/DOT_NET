@@ -27,9 +27,9 @@ foreach(Student stud in dJson) {
     Console.WriteLine(stud);
 }
 
-// app.MapGet("/", () => "HaldiRam");
-// app.MapGet("/api/hello",() => "KurKure");
-// app.MapGet("/contact",() => contact);
+app.MapGet("/", () => "HaldiRam");
+app.MapGet("/api/hello",() => "KurKure");
+app.MapGet("/contact",() => contact);
 app.MapGet("/pilantu",() => students);
 
 app.Run();

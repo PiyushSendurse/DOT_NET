@@ -16,12 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\C DAC\Module_7_DOTNET\DOT_NET\Day8\ECommerce\tflStore
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/C DAC/Module_7_DOTNET/DOT_NET/Day8/ECommerce/tflStore/Views/Home/AccntLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2NudExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/C DAC/Module_7_DOTNET/DOT_NET/Day8/ECommerce/tflStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/C DAC/Module_7_DOTNET/DOT_NET/Day8/ECommerce/tflStore/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/C DAC/Module_7_DOTNET/DOT_NET/Day8/ECommerce/tflStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C DAC/Module_7_DOTNET/DOT_NET/Day8/ECommerce/tflStore/Views/Home/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/C DAC/Module_7_DOTNET/DOT_NET/Day8/ECommerce/tflStore/Views/Shared/Error.cshtml]
