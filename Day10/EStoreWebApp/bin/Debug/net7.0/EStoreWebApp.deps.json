@@ -7,14 +7,55 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "EStoreWebApp/1.0.0": {
+        "dependencies": {
+          "BusinessLogicLayer": "1.0.0",
+          "BusinessObjectLayer": "1.0.0"
+        },
         "runtime": {
           "EStoreWebApp.dll": {}
+        }
+      },
+      "BusinessLogicLayer/1.0.0": {
+        "dependencies": {
+          "BusinessObjectLayer": "1.0.0",
+          "DataAccessLayer": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLogicLayer.dll": {}
+        }
+      },
+      "BusinessObjectLayer/1.0.0": {
+        "runtime": {
+          "BusinessObjectLayer.dll": {}
+        }
+      },
+      "DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "BusinessObjectLayer": "1.0.0"
+        },
+        "runtime": {
+          "DataAccessLayer.dll": {}
         }
       }
     }
   },
   "libraries": {
     "EStoreWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessObjectLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccessLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

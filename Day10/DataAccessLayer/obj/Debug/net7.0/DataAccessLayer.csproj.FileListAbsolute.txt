@@ -3,3 +3,13 @@ E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAcce
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\bin\Debug\net7.0\BusinessObjectLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\bin\Debug\net7.0\BusinessObjectLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

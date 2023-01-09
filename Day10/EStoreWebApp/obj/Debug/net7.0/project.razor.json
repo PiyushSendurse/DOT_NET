@@ -16575,6 +16575,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day10\\EStoreWebApp\\Views\\Product\\Index.cshtml",
+      "TargetPath": "Views\\Product\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day10\\EStoreWebApp\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "BusinessObjectLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BusinessObjectLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessObjectLayer.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BusinessObjectLayer/1.0.0": {
+      "type": "project",
+      "path": "../BusinessObjectLayer/BusinessObjectLayer.csproj",
+      "msbuildProject": "../BusinessObjectLayer/BusinessObjectLayer.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "BusinessObjectLayer >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\piyus\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj": {
+              "projectPath": "E:\\C DAC\\Module_7_DOTNET\\DOT_NET\\Day10\\BusinessObjectLayer\\BusinessObjectLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

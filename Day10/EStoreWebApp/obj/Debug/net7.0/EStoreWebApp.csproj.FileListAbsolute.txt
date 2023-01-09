@@ -29,3 +29,10 @@ E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\obj\Debug\net7.0\refint\ESto
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\obj\Debug\net7.0\EStoreWebApp.pdb
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\obj\Debug\net7.0\EStoreWebApp.genruntimeconfig.cache
 E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\obj\Debug\net7.0\ref\EStoreWebApp.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\bin\Debug\net7.0\BusinessLogicLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\bin\Debug\net7.0\BusinessObjectLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\bin\Debug\net7.0\DataAccessLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\bin\Debug\net7.0\BusinessLogicLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\bin\Debug\net7.0\BusinessObjectLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\EStoreWebApp\obj\Debug\net7.0\EStoreWebApp.csproj.CopyComplete

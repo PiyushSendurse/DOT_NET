@@ -1,0 +1,16 @@
+@using BusinessObjectLayer;
+
+@{
+    ViewData["Title"] = "Index Page";
+}
+<div>
+    <h1>Books Catalogs..........</h1>
+    @{
+        List<Product> allProducts=(List<Product>)ViewData["products"];
+        <ol>
+            @foreach( Product product in allProducts){
+                <li> <a href="/Product/Index/@product.Title">@product.Title</a></li>
+            }
+        </ol>
+    }
+</div>

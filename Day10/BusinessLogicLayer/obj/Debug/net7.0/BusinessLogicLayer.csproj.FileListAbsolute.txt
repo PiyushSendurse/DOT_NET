@@ -1,0 +1,17 @@
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.deps.json
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\bin\Debug\net7.0\BusinessObjectLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\bin\Debug\net7.0\BusinessObjectLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfo.cs
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CopyComplete
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\refint\BusinessLogicLayer.dll
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.pdb
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\BusinessLogicLayer\obj\Debug\net7.0\ref\BusinessLogicLayer.dll

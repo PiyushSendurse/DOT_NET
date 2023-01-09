@@ -14,7 +14,7 @@ public class ProductController : Controller
     {
         _logger = logger;
     }
-
+                         //action
     public IActionResult Index()
     {
         CatalogManager manager = new CatalogManager();
