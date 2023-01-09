@@ -1,0 +1,5 @@
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+E:\C DAC\Module_7_DOTNET\DOT_NET\Day10\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
