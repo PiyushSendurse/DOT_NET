@@ -9,4 +9,11 @@ public class CatalogManager
 
         return allProducts;
     }
+
+    public Product GetEachProduct(int id) {
+        List<Product> allProducts = DBManager.GetAllProducts();
+        Product eachProduct=allProducts.Find((p)=>p.Id==id); //Lambda Function
+
+        return eachProduct;
+    }
 }

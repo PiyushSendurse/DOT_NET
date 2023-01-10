@@ -6,11 +6,16 @@
 <div>
     <h1>Books Catalogs..........</h1>
     @{
-        List<Product> allProducts=(List<Product>)ViewData["products"];
+        List<Product> allProducts=(List<Product>)ViewData["product"];
         <ol>
             @foreach( Product product in allProducts){
-                <li> <a href="/Product/Index/@product.Title">@product.Title</a></li>
+                <li> <a href="/Product/Details/@product.Id">@product.Title</a></li>
             }
         </ol>
     }
 </div>
+
+@* 
+<ol>
+    <li></li>
+</ol> *@

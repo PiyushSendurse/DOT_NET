@@ -14,13 +14,23 @@ public class ProductController : Controller
     {
         _logger = logger;
     }
-                         //action
+    //action
     public IActionResult Index()
     {
         CatalogManager manager = new CatalogManager();
-        List<Product> allProducts=manager.GetAllProduct(); 
-        this.ViewData["products"]=allProducts;
+        List<Product> allProducts = manager.GetAllProduct();
+        this.ViewData["product"] = allProducts;
         return View();
     }
+
+    public IActionResult Details(int id)
+    {
+        CatalogManager manager = new CatalogManager();
+        Product product = manager.GetEachProduct(id);
+        this.ViewData["product"] = product;
+        return View();
+    }
+
+
 
 }

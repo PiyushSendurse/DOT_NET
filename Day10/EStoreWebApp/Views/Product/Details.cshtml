@@ -1,0 +1,20 @@
+@using BusinessObjectLayer;
+
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<div>
+    <h2>******************Product Details******************</h2>
+    @{
+        Product theProduct=ViewData["product"] as Product;
+
+        <p>Id             :@theProduct.Id</p>
+        <p>Title          :@theProduct.Title</p>
+        <p>Category       :@theProduct.Category</p>
+        <p>Description    :@theProduct.Description</p>
+        <p>UnitPrice      :@theProduct.UnitPrice</p>
+        <p>Balance        :@theProduct.Balance</p>
+        
+    }
+</div>
